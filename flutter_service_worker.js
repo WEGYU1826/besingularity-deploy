@@ -3,10 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "9433b250fffa178564070ddd774ff3d5",
-"/": "9433b250fffa178564070ddd774ff3d5",
+  "index.html": "1b0c466e5ed6fed4e6fb7fe823204519",
+"/": "1b0c466e5ed6fed4e6fb7fe823204519",
 "manifest.json": "a140c2b2668c348b0a3ca27286d2c279",
-"main.dart.js": "38a3b93dfab0e168e8b3f31c59263ca6",
+"main.dart.js": "248e615fc09942d706ce59d1c0fb194b",
 "icons/Icon-maskable-192.png": "b5539376a6986b57c9fbe07e9942d2d5",
 "icons/Icon-192.png": "b5539376a6986b57c9fbe07e9942d2d5",
 "icons/Icon-512.png": "30fa0ae9f8db4b94332bcdf44b1e0a4d",
@@ -18,12 +18,12 @@ const RESOURCES = {
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"assets/NOTICES": "10fbe8837dc515bf31940b6933b26111",
+"assets/NOTICES": "1a989b3377723e4332aff125a4c15cff",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/packages/flutter_dropzone_web/assets/flutter_dropzone.js": "0266ef445553f45f6e45344556cfd6fd",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "57d849d738900cfd590e9adc7e208250",
-"assets/AssetManifest.json": "ade8367fe0f05a490bd705af3d338c40",
-"assets/fonts/MaterialIcons-Regular.otf": "16b4138171d817cbba1f9b74bc07f596",
+"assets/AssetManifest.json": "c5b970a5e569efff1ad1e2c3ee6c22c9",
+"assets/fonts/MaterialIcons-Regular.otf": "52d7c2b5ee0b0f93c24472ec9f1588e1",
 "assets/assets/icons/Search.svg": "396d519c18918ed763d741f4ba90243a",
 "assets/assets/icons/sound_file.svg": "fe212d5edfddd0786319edf50601ec73",
 "assets/assets/icons/excle_file.svg": "dc91b258ecf87f5731fb2ab9ae15a3ec",
@@ -50,6 +50,7 @@ const RESOURCES = {
 "assets/assets/icons/menu_store.svg": "2fd4ae47fd0fca084e50a600dda008cd",
 "assets/assets/images/profile_pic.png": "5f56c3070f1c066ae15ecad12fb44f54",
 "assets/assets/images/icon.png": "ea29dc2758b97a3c9217eb791aef5aa0",
+"assets/assets/images/no-image-available.png": "0e4a663eae8cbe389514e3fde18bf4da",
 "assets/assets/images/logo.png": "5315be9d0a7602fb12a0ad4c2e3006e9"
 };
 
